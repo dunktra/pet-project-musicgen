@@ -47,6 +47,6 @@ Follow these steps to clone the repository, install the necessary dependencies, 
 This will set up and run the app, allowing you to generate music based on natural language input!
 
 
-Resources:
+### Resources:
 - Tutorial: https://www.youtube.com/watch?v=UqsW9IK8pCI
 - Audiocraft library: https://github.com/facebookresearch/audiocraft
